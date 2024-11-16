@@ -33,12 +33,12 @@ To run the website locally, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/ecommerce-website-template.git
+    git clone https://github.com/payalsahu1303/ECOMMERCE-WEBSITE_FASHIONISTA.git
     ```
 
 2. Navigate into the project directory:
     ```bash
-    cd ecommerce-website-template
+    cd ECOMMERCE-WEBSITE_FASHIONISTA
     ```
 
 3. Open the `index.html` file in your browser to view the website.
